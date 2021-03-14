@@ -1,0 +1,9 @@
+heroes:
+  bruceWayne: Ele é o Batman (valor obtido do application.yml).
+  damianWayne: É o filho do Batman (valor obtido do application.yml).
+  dickGrayson: Ele foi o primeiro Robin (valor obtido do application.yml).
+
+villains:
+  joker: Principal vilão do Batman (valor obtido do application.yml).
+  riddler: Suas charadas sempre causaram problemas em Gotham (valor obtido do application.yml).
+  bane: Muito forte, dificil de derrubar em combate (valor obtido do application.yml).
