@@ -1,4 +1,4 @@
-package edu.thomasdacosta.controller
+package edu.thomasdacosta.data
 
 data class KvReponse(
     val key: String,
